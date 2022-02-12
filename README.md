@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# Alpha Store eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 Live : https://alphastore2022.herokuapp.com/
